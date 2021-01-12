@@ -1,0 +1,22 @@
+[{
+        "rowName": "A",
+        "seats": { "A1": { "booked": false }, "A2": { "booked": false }, "A3": { "booked": false }, "A4": { "booked": false }, "A5": { "booked": false }, "A6": { "booked": false }, "A7": { "booked": false }, "A8": { "booked": true } }
+    },
+    {
+        "rowName": "B",
+        "seats": { "B1": { "booked": false }, "B2": { "booked": false }, "B3": { "booked": false }, "B4": { "booked": false }, "B5": { "booked": true }, "B6": { "booked": true }, "B7": { "booked": true }, "B8": { "booked": true } }
+    },
+    {
+        "rowName": "C",
+        "seats": { "C1": { "booked": false }, "C2": { "booked": false }, "C3": { "booked": false }, "C4": { "booked": false }, "C5": { "booked": false }, "C6": { "booked": false }, "C7": { "booked": false }, "C8": { "booked": true } }
+    },
+    {
+
+        "rowName": "D",
+        "seats": { "D1": { "booked": false }, "D2": { "booked": false }, "D3": { "booked": false }, "D4": { "booked": false }, "D5": { "booked": true }, "D6": { "booked": true }, "D7": { "booked": true }, "D8": { "booked": true } }
+    },
+    {
+        "rowName": "E",
+        "seats": { "E1": { "booked": false }, "E2": { "booked": false }, "E3": { "booked": false }, "E4": { "booked": false }, "E5": { "booked": true }, "E6": { "booked": true }, "E7": { "booked": true }, "E8": { "booked": true } }
+    }
+]
